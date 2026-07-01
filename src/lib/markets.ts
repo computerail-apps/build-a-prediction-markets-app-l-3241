@@ -1,0 +1,8 @@
+export const DEMO_MARKETS = [
+  { id: '1', title: 'Will BTC exceed $100k by end of 2025?', category: 'Crypto', yes_price: 62, no_price: 38, volume: 142000, end_date: '2025-12-31', resolved: false, outcome: null, description: 'Bitcoin price on any major exchange.' },
+  { id: '2', title: 'Will the Fed cut rates in Q3 2025?', category: 'Finance', yes_price: 45, no_price: 55, volume: 89000, end_date: '2025-09-30', resolved: false, outcome: null, description: 'Federal Reserve rate decision.' },
+  { id: '3', title: 'Will GPT-5 launch before July 2025?', category: 'AI', yes_price: 71, no_price: 29, volume: 210000, end_date: '2025-07-01', resolved: false, outcome: null, description: 'Official OpenAI GPT-5 release.' },
+  { id: '4', title: 'Will SpaceX land on Mars by 2030?', category: 'Space', yes_price: 28, no_price: 72, volume: 55000, end_date: '2030-01-01', resolved: false, outcome: null, description: 'Crewed or uncrewed Mars landing.' },
+  { id: '5', title: 'Will S&P 500 hit 6500 in 2025?', category: 'Finance', yes_price: 54, no_price: 46, volume: 178000, end_date: '2025-12-31', resolved: false, outcome: null, description: 'S&P 500 closing price milestone.' },
+  { id: '6', title: 'Will a new AI model beat GPT-4 on all benchmarks?', category: 'AI', yes_price: 83, no_price: 17, volume: 95000, end_date: '2025-06-30', resolved: false, outcome: null, description: 'Any publicly available model.' },
+]
